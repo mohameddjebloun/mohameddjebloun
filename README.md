@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mDjeblounMohamed
+- 👋 Hi, I’m @DjeblounMohamed
 - 👀 I’m interested in webdev and data science
 - 🌱 I’m currently learning webdev and applied maths in uni
 - 💞️ I’m looking to collaborate on anything related to the fields I'm interested in
